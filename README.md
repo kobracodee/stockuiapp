@@ -1,16 +1,9 @@
-# stocksapp
+## Stock App UI
 
-A new Flutter project.
+# This app made for the first project of my university Mobile Development course CSCI410
 
-## Getting Started
+# this is the reference Design
+![original-84aa761d10b3c33dd33b3ce528ef8652 (1)](https://github.com/user-attachments/assets/25080d8c-386b-4edd-9254-766c0ae0dde1)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# this is our design
+![Screenshot_1732472345](https://github.com/user-attachments/assets/75441e57-ba53-4a3c-b831-c471102ff0ee)
