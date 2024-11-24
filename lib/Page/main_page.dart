@@ -1,12 +1,16 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:stocksapp/utilities/color_manager.dart';
+import 'package:stocksapp/utilities/stock.dart';
 import 'package:stocksapp/widgets/graph_filter_widget.dart';
 import 'package:stocksapp/widgets/line_chart_widget.dart';
 import 'package:stocksapp/widgets/portfolio_balance_widget.dart';
+import 'package:stocksapp/widgets/portfolio_positions_widget.dart';
 
 class MainPage extends StatelessWidget {
-  const MainPage({super.key});
+  MainPage({super.key});
+
+  final List<Stock> stocks = Stock.stocks;
 
   @override
   Widget build(BuildContext context) {
@@ -61,26 +65,14 @@ class MainPage extends StatelessWidget {
           ),
         ],
       ),
-      body: const Column(
+      body: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          PortfolioBalance(),
-          LineChartWidget(),
-          GraphFilter(),
-          SizedBox(height: 25),
-          // Column(
-          //   children: [
-          //     Text(
-          //       "Protfolio positions",
-          //       style: TextStyle(
-          //         color: ColorManager.primaryText,
-          //         fontSize: 20,
-          //         fontWeight: FontWeight.w500,
-          //       ),
-          //     ),
-          //     const SizedBox(height: 10),
-          //   ],
-          // ),
+          const PortfolioBalance(),
+          const LineChartWidget(),
+          const GraphFilter(),
+          const SizedBox(height: 12.5),
+          PortfolioPositions(stocks: stocks),
         ],
       ),
     );
