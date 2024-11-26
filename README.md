@@ -5,6 +5,9 @@
 # this is the reference Design
 ![original-84aa761d10b3c33dd33b3ce528ef8652 (1)](https://github.com/user-attachments/assets/25080d8c-386b-4edd-9254-766c0ae0dde1)
 
+link to reference
+https://dribbble.com/shots/25245260-Stock-Trading-App
+
 # this is our design
 
 ![Screenshot_1732472345](https://github.com/user-attachments/assets/265aa0a8-d00c-4b92-a2cf-3def3839de21)
