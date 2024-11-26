@@ -6,7 +6,8 @@
 ![original-84aa761d10b3c33dd33b3ce528ef8652 (1)](https://github.com/user-attachments/assets/25080d8c-386b-4edd-9254-766c0ae0dde1)
 
 link to reference
-https://dribbble.com/shots/25245260-Stock-Trading-App
+
+https://dribbble.com/shots/25245260-Stock-Trading-App?utm_source=Clipboard_Shot&utm_campaign=agilie&utm_content=Stock%20Trading%20App&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=agilie&utm_content=Stock%20Trading%20App&utm_medium=Social_Share
 
 # this is our design
 
